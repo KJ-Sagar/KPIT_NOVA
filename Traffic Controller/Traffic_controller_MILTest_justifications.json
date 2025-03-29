@@ -1,0 +1,69 @@
+{
+    "entries": [
+        {
+            "content": {
+                "filters": [
+                    {
+                        "content": {
+                            "checks": [
+                                "mathworks.jmaab.ar_0001"
+                            ],
+                            "filteredItem": {
+                                "content": {
+                                    "ID": "ab4d80eb733e4fb26e1b7ebeeb8ea31e7f6e2074cfdadb210bbea16ecec4fafe"
+                                },
+                                "type": "advisor.filter.BlockFilter",
+                                "uuid": "0b4cb862-9af3-497b-abf0-18e6c38f4b77"
+                            },
+                            "metadata": {
+                                "content": {
+                                    "summary": "This was added to better identify versions of the document",
+                                    "timeStamp": "2025-03-23T10:46:32",
+                                    "user": "Sagar"
+                                },
+                                "type": "advisor.filter.Metadata",
+                                "uuid": "6abf1229-0889-4ce2-a6df-903045741417"
+                            }
+                        },
+                        "type": "advisor.filter.AdvisorFilterSpecification",
+                        "uuid": "05034cb0-51fd-477a-8a6d-cd6fcc9758c7"
+                    },
+                    {
+                        "content": {
+                            "checks": [
+                                "mathworks.jmaab.ar_0001"
+                            ],
+                            "filteredItem": {
+                                "content": {
+                                    "ID": "mathworks.jmaab.ar_0001"
+                                },
+                                "type": "advisor.filter.BlockFilter",
+                                "uuid": "785aa477-446c-4cd8-a72f-5d5d21a4e9fc"
+                            },
+                            "metadata": {
+                                "content": {
+                                    "summary": "This was added to better identify versions of the document",
+                                    "timeStamp": "2025-03-23T10:46:43",
+                                    "user": "Sagar"
+                                },
+                                "type": "advisor.filter.Metadata",
+                                "uuid": "2b801584-310a-45b0-9e60-106a79e72918"
+                            }
+                        },
+                        "type": "advisor.filter.AdvisorFilterSpecification",
+                        "uuid": "2204567d-acc2-4d78-b99a-01910f0ffa5c"
+                    }
+                ],
+                "modelName": "Traffic_controller_MILTest"
+            },
+            "type": "advisor.filter.AdvisorFilterManager",
+            "uuid": "786eea25-a5d5-4e41-a8e6-29ee0b0ff50c"
+        }
+    ],
+    "packageUris": [
+        "http://schema.mathworks.com/mf0/advisor_filter/R2020b",
+        "http://schema.mathworks.com/mf0/advisor_filter_sl/R2021a",
+        "http://schema.mathworks.com/mf0/advisor_filter_base/R2021a"
+    ],
+    "version": "1.0"
+}
